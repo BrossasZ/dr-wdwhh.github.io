@@ -4,6 +4,6 @@
 
 ~~Because i don't know how to make it
 
- ###WELCOME TO MY FRIEND'S `GITHUB PAGES`
+### WELCOME TO MY FRIEND'S `GITHUB PAGES`
  
- [RAVELLOH](HTTPS://ravelloh.js.org)
+[RAVELLOH](HTTPS://ravelloh.js.org)
